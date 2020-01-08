@@ -2,6 +2,6 @@ project_name: "block-sales-config"
 
 
 constant: SALESFORCE_SCHEMA {
-  value: "bings_ads_for_looker"
+  value: "salesforce"
   export: override_required
 }
