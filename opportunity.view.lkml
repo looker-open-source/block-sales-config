@@ -4,5 +4,7 @@ view: opportunity_config {
 
   dimension: is_pipeline {
     sql: ${forecast_category} IN ('Pipeline','Forecast','BestCase') ;;
+    type: yesno
   }
+
 }

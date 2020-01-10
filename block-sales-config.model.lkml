@@ -1,4 +1,3 @@
-# connection: "@{CONNECTION_NAME}"
 
 include: "*.view.lkml"                       # include all views in this project
 
