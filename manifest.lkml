@@ -5,3 +5,8 @@ constant: SALESFORCE_SCHEMA {
   value: "salesforce"
   export: override_required
 }
+
+constant: SALESFORCE_DOMAIN {
+  value: "looker"
+  export: override_required
+}
